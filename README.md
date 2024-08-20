@@ -1,1 +1,1 @@
-# DreamNode
+# GenerativeDynamics
