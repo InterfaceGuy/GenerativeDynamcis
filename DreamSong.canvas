@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"630905e345c31673","type":"file","file":"TaylorExpansion/TaylorExpansion.gif","x":-200,"y":-412,"width":400,"height":225},
-		{"id":"2b3aad66104de434","type":"file","file":"SpotlightVsFloodlightAwareness/SpotlightVsFloodlightAwareness.gif","x":-200,"y":-112,"width":400,"height":225},
-		{"id":"ebbf4000355d0174","type":"file","file":"MolochAndMiracleField/MolochAndMiracleField.mov","x":-200,"y":188,"width":400,"height":225}
+		{"id":"630905e345c31673","type":"file","file":"GenerativeDynamcis/TaylorExpansion/TaylorExpansion.gif","x":-200,"y":-412,"width":400,"height":225},
+		{"id":"2b3aad66104de434","type":"file","file":"GenerativeDynamcis/SpotlightVsFloodlightAwareness/SpotlightVsFloodlightAwareness.gif","x":-200,"y":-112,"width":400,"height":225},
+		{"id":"ebbf4000355d0174","type":"file","file":"GenerativeDynamcis/MolochAndMiracleField/MolochAndMiracleField.mov","x":-200,"y":188,"width":400,"height":225}
 	],
 	"edges":[
 		{"id":"0fa8cb9249b77f9f","fromNode":"630905e345c31673","fromSide":"bottom","toNode":"2b3aad66104de434","toSide":"top"},

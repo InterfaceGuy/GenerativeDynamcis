@@ -1,0 +1,43 @@
+{
+  "index.html": null,
+  "README.md": null,
+  "GenerativeDynamcis.sublime-project": null,
+  "DreamSong.canvas": null,
+  "GenerativeDynamcis.sublime-workspace": null,
+  "TaylorExpansion": {
+    "TaylorExpansion.sublime-project": null,
+    "TaylorExpansion.key": null,
+    "README.md": null,
+    "TaylorExpansion.py": null,
+    "TaylorExpansion.gif": null,
+    "TaylorExpansion.sublime-workspace": null,
+    "SpotlightVsFloodlightAwareness": {
+      "SpotlightVsFloodlightAwareness.gif": null,
+      "README.md": null,
+      "SpotlightVsFloodlightAwareness.key": null,
+      "SpotlightVsFloodlightAwareness.py": null,
+      "DreamSongUI": {
+        "styles.css": null,
+        "update_submodules.py": null,
+        "README.md": null,
+        "linearFlowCanvas.js": null,
+        "MolochAndMiracleField": {
+          "MolochAndMiracleField.py": null,
+          "MolochAndMiracleField.c4d": null,
+          "MolochAndMiracleField.mov": null,
+          "README.md": null,
+          "MolochAndMiracleFieldLabyrinth.c4d": null,
+          "MolochAndMiracleFieldFlow.c4d": null,
+          "tex": {},
+          "MolochAndMiracleField/tex": {
+            "2A20D7B3-2DE4-4D35-8816-979FE5583AC2.png": null
+          }
+        }
+      }
+    }
+  },
+  "SpotlightVsFloodlightAwareness": {},
+  "DreamSongUI": {},
+  "MolochAndMiracleField": {},
+  "parent_directory": "GenerativeDynamcis"
+}
